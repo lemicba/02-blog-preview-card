@@ -15,7 +15,7 @@ const Card = ({
   description: string;
 }) => {
   return (
-    <div className="bg-white w-[327px] sm:w-[384px] sm:h-[522px] rounded-[20px] flex flex-col p-300 shadow-dark-100 hover:shadow-dark-200 gap-6 group transition-shadow duration-300 ">
+    <div className="bg-white w-[327px] sm:w-[384px] sm:h-[522px] rounded-[20px] flex flex-col p-300 shadow-dark-100 hover:shadow-dark-200 gap-6 group transition-shadow duration-300 hover:cursor-pointer">
       <div className="relative h-[200px]">
         <Image
           src={image}
