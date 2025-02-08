@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import imageAvatar from '@/public/image-avatar.webp';
 
 const Card = ({
   image,
@@ -38,12 +39,7 @@ const Card = ({
         </p>
       </div>
       <div className="text-sm tracking-normal leading-[150%] font-black flex items-center gap-3">
-        <Image
-          src="/image-avatar.webp"
-          width={32}
-          height={32}
-          alt="Avatar image"
-        />
+        <Image src={imageAvatar} width={32} height={32} alt="Avatar image" />
         <p>Greg Hooper</p>
       </div>
     </div>
