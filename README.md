@@ -19,8 +19,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/lemicba/01-qr-code](https://github.com/lemicba/01-qr-code)
-- Live Site URL: [https://lemicba.github.io/01-qr-code/](https://lemicba.github.io/01-qr-code/)
+- Solution URL: [[https://github.com/lemicba/01-qr-code](https://github.com/lemicba/01-qr-code)]
+- Live Site URL: [[https://lemicba.github.io/01-qr-code/](https://lemicba.github.io/01-qr-code/)]
 
 ### Built with
 
